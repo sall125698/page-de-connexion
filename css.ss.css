@@ -1,0 +1,28 @@
+body{
+  background-color: blue;
+  color: white;
+  border: 20px;
+  padding: solid;
+}
+h1{
+text-align: center;
+  margin-top: 50px;
+  color: black;
+}
+.label{
+  color: yellow;
+  text-align: left;
+}
+fieldset{
+  
+  padding-bottom: 50;
+  background-color:#A52A2A;
+  margin: 600px;
+  margin-top: 25px;
+  width:30px ;
+}
+ 
+
+.profil{
+  text-align: left;
+}  
